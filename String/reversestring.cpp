@@ -28,7 +28,6 @@ int main()
     cin.getline(name, 100);
     cout << "Your name is : " << name << endl;
     reverse(name);
-    cout << "Reverse of your name is : " << name << endl;
-    return 0; 
-    
+    cout << "Reverse of your name  : " << name << endl;
+    return 0;
 }
